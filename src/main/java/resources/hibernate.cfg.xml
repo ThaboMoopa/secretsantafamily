@@ -12,9 +12,9 @@
 <hibernate-configuration>
     <session-factory>
                 <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
-                <property name="hibernate.connection.url">jdbc:postgresql://ec2-107-21-216-112.compute-1.amazonaws.com:5432/dbf0nr6b04htdp</property>
-                <property name="hibernate.connection.username">xujwljdvodwuoj</property>
-                <property name="hibernate.connection.password">16a8f8a8f0813746e18798b63894f29ddc65d4cf29a279d006c4a05c9c44f798</property>
+                <property name="hibernate.connection.url">jdbc:postgresql://ec2-54-221-215-228.compute-1.amazonaws.com:5432/d782ut666quqsq</property>
+                <property name="hibernate.connection.username">mipnghrzfzhiaj</property>
+                <property name="hibernate.connection.password">edb6babb78ecd52682d8a2ef67f6615358a1f24b37a7a381fda435ed6cf1191b</property>
                 <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
 <!--        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>-->
 <!--        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/secretSanta</property>-->
