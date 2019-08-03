@@ -17,3 +17,4 @@ com/secretsanta/repository/BeansInterface.class
 com/secretsanta/hibernateUtil/HibernateUtil.class
 com/secretsanta/databaseOperationsDAO/WishListDAO.class
 com/secretsanta/encryption/BCrypt.class
+com/secretsanta/RunProject.class
