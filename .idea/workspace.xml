@@ -7,9 +7,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8234883a-cc2d-4929-9516-4f8adc17d46f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/RunProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/RunProject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/beans/CustomerBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/beans/CustomerBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/beans/HomepageBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/beans/HomepageBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/beans/TransactionLineBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/beans/TransactionLineBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/beans/TransactionsBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/beans/TransactionsBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/beans/WishListBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/beans/WishListBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/databaseOperationsDAO/CustomerDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/databaseOperationsDAO/CustomerDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/databaseOperationsDAO/TransactionLineDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/databaseOperationsDAO/TransactionLineDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/databaseOperationsDAO/TransactionsDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/databaseOperationsDAO/TransactionsDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/databaseOperationsDAO/WishListDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/databaseOperationsDAO/WishListDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/domain/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/domain/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/domain/TransactionLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/domain/TransactionLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/domain/Transactions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/domain/Transactions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/domain/WishList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/domain/WishList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/encryption/BCrypt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/encryption/BCrypt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/exceptions/Exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/exceptions/Exceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/hibernateUtil/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/hibernateUtil/HibernateUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/repository/BeansInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/repository/BeansInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/repository/Repository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/repository/Repository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/secretsanta/repository/RepositoryDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/secretsanta/repository/RepositoryDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/RunProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/RunProject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/beans/CustomerBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/beans/CustomerBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/beans/HomepageBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/beans/HomepageBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/beans/TransactionLineBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/beans/TransactionLineBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/beans/TransactionsBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/beans/TransactionsBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/beans/WishListBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/beans/WishListBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/databaseOperationsDAO/CustomerDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/databaseOperationsDAO/CustomerDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/databaseOperationsDAO/TransactionLineDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/databaseOperationsDAO/TransactionLineDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/databaseOperationsDAO/TransactionsDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/databaseOperationsDAO/TransactionsDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/databaseOperationsDAO/WishListDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/databaseOperationsDAO/WishListDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/domain/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/domain/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/domain/TransactionLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/domain/TransactionLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/domain/Transactions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/domain/Transactions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/domain/WishList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/domain/WishList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/encryption/BCrypt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/encryption/BCrypt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/exceptions/Exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/exceptions/Exceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/hibernateUtil/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/hibernateUtil/HibernateUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/repository/BeansInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/repository/BeansInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/repository/Repository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/repository/Repository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/repository/RepositoryDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/com/secretsanta/repository/RepositoryDAO.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="14" column="123" selection-start-line="14" selection-start-column="123" selection-end-line="14" selection-end-column="123" />
+            <state relative-caret-position="-441">
+              <caret line="16" column="127" selection-start-line="16" selection-start-column="127" selection-end-line="16" selection-end-column="127" />
             </state>
           </provider>
         </entry>
@@ -63,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="136" column="23" lean-forward="true" selection-start-line="136" selection-start-column="23" selection-end-line="136" selection-end-column="23" />
+            <state relative-caret-position="942">
+              <caret line="158" column="7" selection-start-line="158" selection-start-column="7" selection-end-line="167" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -87,11 +128,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Procfile">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="70" selection-start-column="70" selection-end-column="70" />
+              <caret column="101" selection-start-column="101" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -188,9 +229,9 @@
         <option value="$PROJECT_DIR$/src/main/webapp/displaySelection.xhtml" />
         <option value="$PROJECT_DIR$/src/main/webapp/homepage.xhtml" />
         <option value="$PROJECT_DIR$/src/main/java/com.secretsanta/RunProject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Procfile" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Procfile" />
       </list>
     </option>
   </component>
@@ -215,122 +256,7 @@
             <path>
               <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
               <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.secretsanta" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.secretsanta" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.secretsanta" type="462c0819:PsiDirectoryNode" />
-              <item name="databaseOperationsDAO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="secretsanta" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="sb-admin-2.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Family" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -351,16 +277,18 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/target" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp/images" />
       <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/main/java/com.secretsanta" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/webapp" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -551,8 +479,16 @@
       <workItem from="1564421932591" duration="31042000" />
       <workItem from="1564561262937" duration="7155000" />
       <workItem from="1564772337922" duration="592000" />
-      <workItem from="1564773296998" duration="9489000" />
+      <workItem from="1564773296998" duration="10462000" />
     </task>
+    <task id="LOCAL-00001" summary="Deploy">
+      <created>1564832627913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564832627913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -588,7 +524,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48679000" />
+    <option name="totallyTimeSpent" value="49652000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -601,7 +537,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -619,13 +554,13 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3849315" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3849315" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50080776" side_tool="true" weight="0.3890411" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" order="11" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32876712" />
-      <window_info anchor="bottom" id="Application Servers" order="13" visible="true" weight="0.66712326" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.66712326" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32739726" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -679,6 +614,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deploy" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com.secretsanta/domain.java" />
@@ -1021,27 +960,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="70" selection-start-column="70" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="136" column="23" lean-forward="true" selection-start-line="136" selection-start-column="23" selection-end-line="136" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/resources/login1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="14" column="123" selection-start-line="14" selection-start-column="123" selection-end-line="14" selection-end-column="123" />
+        <state relative-caret-position="-441">
+          <caret line="16" column="127" selection-start-line="16" selection-start-column="127" selection-end-line="16" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="942">
+          <caret line="158" column="7" selection-start-line="158" selection-start-column="7" selection-end-line="167" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="101" selection-start-column="101" selection-end-column="101" />
         </state>
       </provider>
     </entry>
