@@ -121,7 +121,6 @@
                         <li class="nav-item dropdown no-arrow">
                             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 <h:outputLabel class="mr-2 d-none d-lg-inline text-gray-600 small" value="#{customerDAO.getCustomer().name}"/>
-                                <h:graphicImage class="img-profile rounded-circle" value="resources/img/profile.png" />
                             </a>
                             <!-- Dropdown - User Information -->
                             <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
@@ -156,11 +155,11 @@
                         </div>
                         <div class="card-body">
 <!--                            <div class="table-responsive" >-->
-                                <h:outputText style="font-size: 30px; text-align: center; text-shadow: #36b9cc;" value="#{transactionLineDAO.populate(transactionsDAO.getTransactionID()).customer.name}" /><br/>
+                                <h:outputText style="font-size: 30px; text-align: center; text-shadow: #36b9cc;" value="Name: #{transactionLineDAO.populate(transactionsDAO.getTransactionID()).customer.name}" /><br/>
                                 <hr />
-                                <h:outputText style="font-size: 20px;" value="#{wishListDAO.getByIdOfCustomer(transactionLineDAO.populate(transactionsDAO.getTransactionID()).customer.id).optionOne} " /> <br />
-                                <h:outputText style="font-size: 20px;" value="#{wishListDAO.getByIdOfCustomer(transactionLineDAO.populate(transactionsDAO.getTransactionID()).customer.id).optionTwo} "/> <br />
-                                <h:outputText style="font-size: 20px;" value="#{wishListDAO.getByIdOfCustomer(transactionLineDAO.populate(transactionsDAO.getTransactionID()).customer.id).optionThree} "/> <br />
+                                <h:outputText style="font-size: 20px;" value="Option 1: #{wishListDAO.getByIdOfCustomer(transactionLineDAO.populate(transactionsDAO.getTransactionID()).customer.id).optionOne} " /> <br />
+                                <h:outputText style="font-size: 20px;" value="Option 2: #{wishListDAO.getByIdOfCustomer(transactionLineDAO.populate(transactionsDAO.getTransactionID()).customer.id).optionTwo} "/> <br />
+                                <h:outputText style="font-size: 20px;" value="Option 3: #{wishListDAO.getByIdOfCustomer(transactionLineDAO.populate(transactionsDAO.getTransactionID()).customer.id).optionThree} "/> <br />
 <!--                            </div>-->
                         </div>
                     </div>

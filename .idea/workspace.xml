@@ -6,7 +6,19 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8234883a-cc2d-4929-9516-4f8adc17d46f" name="Default Changelist" comment="" />
+    <list default="true" id="8234883a-cc2d-4929-9516-4f8adc17d46f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/login1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/WEB-INF/classes/login1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/displaySelection.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/displaySelection.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/secretsanta/homepage.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/target/secretsanta/homepage.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Family.kotlin_module" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/CustomerRegister.xhtml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-197">
@@ -72,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+            <state relative-caret-position="200">
+              <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="102" />
             </state>
           </provider>
         </entry>
@@ -97,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com.secretsanta/databaseOperationsDAO/CustomerDAO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-196">
-              <caret line="200" column="83" lean-forward="true" selection-start-line="200" selection-start-column="83" selection-end-line="200" selection-end-column="83" />
+              <caret line="200" column="83" selection-start-line="200" selection-start-column="83" selection-end-line="200" selection-end-column="83" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#0#34#1" expanded="true" />
@@ -129,7 +141,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com.secretsanta/domain/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1150">
-              <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+              <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -161,6 +173,9 @@
       <replace>secretsanta</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -189,11 +204,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com.secretsanta/beans/TransactionLineBean.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/css/sb-admin-2.css" />
         <option value="$PROJECT_DIR$/src/main/java/com.secretsanta/databaseOperationsDAO/WishListDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com.secretsanta/beans/CustomerBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.secretsanta/databaseOperationsDAO/CustomerDAO.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/displaySelection.xhtml" />
         <option value="$PROJECT_DIR$/src/main/webapp/homepage.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml" />
       </list>
     </option>
   </component>
@@ -201,6 +216,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -257,6 +273,14 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com.secretsanta" type="462c0819:PsiDirectoryNode" />
               <item name="databaseOperationsDAO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Family" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="secretsanta" type="b2602c69:ProjectViewProjectNode" />
@@ -339,6 +363,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/images" />
@@ -538,7 +563,7 @@
       <workItem from="1564421932591" duration="31042000" />
       <workItem from="1564561262937" duration="7155000" />
       <workItem from="1564772337922" duration="592000" />
-      <workItem from="1564773296998" duration="5030000" />
+      <workItem from="1564773296998" duration="5609000" />
     </task>
     <servers />
   </component>
@@ -575,7 +600,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44220000" />
+    <option name="totallyTimeSpent" value="44799000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -590,7 +615,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -601,7 +626,7 @@
       <window_info id="Persistence" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.3890411" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.3890411" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -935,13 +960,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.secretsanta/beans/WishListBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="764">
@@ -967,7 +985,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com.secretsanta/domain/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1150">
-          <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -977,7 +995,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com.secretsanta/databaseOperationsDAO/CustomerDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-196">
-          <caret line="200" column="83" lean-forward="true" selection-start-line="200" selection-start-column="83" selection-end-line="200" selection-end-column="83" />
+          <caret line="200" column="83" selection-start-line="200" selection-start-column="83" selection-end-line="200" selection-end-column="83" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#0#34#1" expanded="true" />
@@ -1008,6 +1026,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-197">
           <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="63" lean-forward="true" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="102" />
         </state>
       </provider>
     </entry>
